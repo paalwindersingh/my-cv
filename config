@@ -1,0 +1,4 @@
+
+nv = unzip -c -a
+[diff "zip"]
+      textconv = unzip -c -a
